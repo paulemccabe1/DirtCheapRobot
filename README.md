@@ -13,5 +13,6 @@ A simple $25 Robot based on the ESP32 and assembled using cardboard and hot glue
 
 # Tools
 1. Hot Glue Gun
-2. Laptop
-3. Scissors
+2. Scissors
+3. Laptop with Arduino IDE software installed
+   
