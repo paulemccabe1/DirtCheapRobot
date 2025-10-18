@@ -9,7 +9,8 @@ A simple $25 Robot based on the ESP32 and assembled using cardboard and hot glue
 5.	 Breadboard jumper wires (6) - Male/Male	    
 6.	 5/8" Roller Ball Bearing	               
 7.	 Mini USB Battery Bank	                    
-8.	 USB-A - USB Micro Data/Power Cable	      
+8.	 USB-A - USB Micro Data/Power Cable
+9.	 WIreless Game Controller that support Bluetooth	      
 
 # Tools
 1. Hot Glue Gun
