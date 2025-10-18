@@ -1,8 +1,7 @@
 # DirtCheapRobot
 A simple $25 Robot based on the ESP32 and assembled using cardboard and hot glue.
 
-# Bill of Materials
-#	Item	                                   
+# Bill of Materials                              
 1.	 ESP32-WROOM	                             
 2.	 DRV8833	                                 
 3.	 DC Motor Wheel Kit (2) with 2.54mm wires	
