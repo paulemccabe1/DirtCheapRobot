@@ -11,3 +11,7 @@ A simple $25 Robot based on the ESP32 and assembled using cardboard and hot glue
 7.	 Mini USB Battery Bank	                    
 8.	 USB-A - USB Micro Data/Power Cable	      
 
+# Tools
+1. Hot Glue Gun
+2. Laptop
+3. Scissors
