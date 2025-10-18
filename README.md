@@ -2,7 +2,7 @@
 A simple $25 Robot based on the ESP32 and assembled using cardboard and hot glue. No Soldering required.
 
 # Bill of Materials                              
-1.	 ESP32-WROOM	                             
+1.	 ESP32-WROOM (Narrow Board)	                             
 2.	 DRV8833	                                 
 3.	 DC Motor Wheel Kit (2) with 2.54mm wires	
 4.	 Breadboard - 400 pins	                   
