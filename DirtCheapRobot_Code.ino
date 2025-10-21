@@ -1,4 +1,6 @@
 #include <Bluepad32.h>
+// Dirt Cheap Robot
+// Paul McCabe
 
 // === Motor driver pins ===
 #define IN1 19   // Motor A input 1
